@@ -1,4 +1,4 @@
-public class dp {
+public class CC_52_Maximal_Product_when_Cutting_Rope {
 	public static void main(String arg[]){
 		int num;
 		int value;
